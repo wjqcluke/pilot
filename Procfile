@@ -1,1 +1,1 @@
-web: pip install . -U && wjqcluke-run
+web: pip install . -U && pilot-run
